@@ -5,3 +5,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 linkease/webvirtcloud:0.2
+hectorm/xubuntu
+oldiy/dosgame-web-docker
+zerotier/zerotier-synology
+outlovecn/portainer-cn
+infrastlabs/docker-headless
+luodaoyi/kms-server
+dockurr/windows
+scottyhardy/docker-wine
+hectorm/qemu-win2000
+qemux/qemu-docker
