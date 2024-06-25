@@ -16,3 +16,4 @@ scottyhardy/docker-wine
 hectorm/qemu-win2000
 qemux/qemu-docker
 vdsm/virtual-dsm
+seedgou/zerotier
