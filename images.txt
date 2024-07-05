@@ -18,4 +18,4 @@ qemux/qemu-docker
 vdsm/virtual-dsm
 seedgou/zerotier
 sickcodes/dock-droid
-weiyang/container
+weiyang/container-vm
