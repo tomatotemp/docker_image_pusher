@@ -19,3 +19,4 @@ vdsm/virtual-dsm
 seedgou/zerotier
 sickcodes/dock-droid
 weiyang/container-vm
+cnk3x/xunlei
