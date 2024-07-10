@@ -20,4 +20,4 @@ seedgou/zerotier
 sickcodes/dock-droid
 weiyang/container-vm
 cnk3x/xunlei
-infrastlabs/docker-headless:aarch64
+--platform=linux/arm64 infrastlabs/docker-headless
