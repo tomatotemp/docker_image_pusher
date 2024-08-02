@@ -25,3 +25,4 @@ cnk3x/xunlei
 ghcr.io/gethomepage/homepage:latest
 --platform=linux/arm64 cnk3x/xunlei
 scottyhardy/docker-wine
+--platform=linux/arm64 outlovecn/portainer-cn
