@@ -27,3 +27,4 @@ ghcr.io/gethomepage/homepage:latest
 scottyhardy/docker-wine
 --platform=linux/arm64 outlovecn/portainer-cn
 registry.cn-shanghai.aliyuncs.com/suling/openwrt-mini:rpi1
+hectorm/xubuntu
