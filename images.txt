@@ -29,3 +29,4 @@ scottyhardy/docker-wine
 #registry.cn-shanghai.aliyuncs.com/suling/openwrt-mini:rpi1
 hectorm/xubuntu
 zerotier/zerotier
+ollama/ollama
