@@ -14,7 +14,7 @@ luodaoyi/kms-server
 dockurr/windows
 scottyhardy/docker-wine
 hectorm/qemu-win2000
-qemux/qemu-docker
+#qemux/qemu-docker
 vdsm/virtual-dsm
 #seedgou/zerotier
 sickcodes/dock-droid
