@@ -30,3 +30,4 @@ scottyhardy/docker-wine
 hectorm/xubuntu
 zerotier/zerotier
 ollama/ollama
+multiarch/qemu-user-static:register
