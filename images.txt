@@ -31,4 +31,3 @@ hectorm/xubuntu
 zerotier/zerotier
 ollama/ollama
 multiarch/qemu-user-static:register
---platform=linux/armhf cnk3x/xunlei
