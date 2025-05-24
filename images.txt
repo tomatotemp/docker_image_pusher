@@ -31,3 +31,4 @@ hectorm/xubuntu
 zerotier/zerotier
 ollama/ollama
 multiarch/qemu-user-static:register
+louislam/dockge
