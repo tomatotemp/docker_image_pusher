@@ -33,3 +33,4 @@ ollama/ollama
 multiarch/qemu-user-static:register
 louislam/dockge
 bestzwei/libretv:latest
+lscr.io/linuxserver/chromium:latest
