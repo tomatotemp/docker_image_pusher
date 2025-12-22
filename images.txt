@@ -34,3 +34,4 @@ multiarch/qemu-user-static:register
 louislam/dockge
 bestzwei/libretv:latest
 lscr.io/linuxserver/chromium:latest
+--platform=linux/arm64 lscr.io/linuxserver/chromium:latest
