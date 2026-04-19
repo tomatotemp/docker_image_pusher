@@ -35,3 +35,4 @@ louislam/dockge
 bestzwei/libretv:latest
 lscr.io/linuxserver/chromium:latest
 --platform=linux/arm64 lscr.io/linuxserver/chromium:latest
+docker.io/library/python:3.11-slim
