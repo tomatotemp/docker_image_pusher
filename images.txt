@@ -40,3 +40,4 @@ docker.io/library/python:3.11-slim
 --platform=linux/arm64 docker.io/searxng/searxng:latest
 --platform=linux/arm64 docker.io/ragapp/ragapp:latest
 nousresearch/hermes-agent:latest
+lingganwu/hermes-web-ui
