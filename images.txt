@@ -43,3 +43,4 @@ nousresearch/hermes-agent:latest
 lingganwu/hermes-web-ui
 ghcr.io/ggml-org/llama.cpp:server-cuda
 ghcr.io/openclaw/openclaw:latest
+docker.io/searxng/searxng:latest
