@@ -42,3 +42,4 @@ docker.io/library/python:3.11-slim
 nousresearch/hermes-agent:latest
 lingganwu/hermes-web-ui
 ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/openclaw/openclaw:latest
