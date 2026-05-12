@@ -4,41 +4,41 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-linkease/webvirtcloud:0.2
+#linkease/webvirtcloud:0.2
 hectorm/xubuntu
-oldiy/dosgame-web-docker
-zerotier/zerotier-synology
+#oldiy/dosgame-web-docker
+#zerotier/zerotier-synology
 outlovecn/portainer-cn
 infrastlabs/docker-headless
 luodaoyi/kms-server
-dockurr/windows
-scottyhardy/docker-wine
-hectorm/qemu-win2000
+#dockurr/windows
+#scottyhardy/docker-wine
+#hectorm/qemu-win2000
 #qemux/qemu-docker
 vdsm/virtual-dsm
 #seedgou/zerotier
-sickcodes/dock-droid
-weiyang/container-vm
+#sickcodes/dock-droid
+#weiyang/container-vm
 cnk3x/xunlei
---platform=linux/arm64 infrastlabs/docker-headless
---platform=linux/arm64 ghcr.io/gethomepage/homepage:latest
-ghcr.io/gethomepage/homepage:latest
---platform=linux/arm64 cnk3x/xunlei
-scottyhardy/docker-wine
---platform=linux/arm64 outlovecn/portainer-cn
+#--platform=linux/arm64 infrastlabs/docker-headless
+#--platform=linux/arm64 ghcr.io/gethomepage/homepage:latest
+#ghcr.io/gethomepage/homepage:latest
+#--platform=linux/arm64 cnk3x/xunlei
+#scottyhardy/docker-wine
+#--platform=linux/arm64 outlovecn/portainer-cn
 #registry.cn-shanghai.aliyuncs.com/suling/openwrt-mini:rpi1
 hectorm/xubuntu
-zerotier/zerotier
+#zerotier/zerotier
 ollama/ollama
-multiarch/qemu-user-static:register
-louislam/dockge
+#multiarch/qemu-user-static:register
+#louislam/dockge
 bestzwei/libretv:latest
 lscr.io/linuxserver/chromium:latest
 --platform=linux/arm64 lscr.io/linuxserver/chromium:latest
 docker.io/library/python:3.11-slim
 --platform=linux/arm64 docker.io/library/python:3.11-slim
 --platform=linux/arm64 docker.io/searxng/searxng:latest
---platform=linux/arm64 docker.io/ragapp/ragapp:latest
+#--platform=linux/arm64 docker.io/ragapp/ragapp:latest
 nousresearch/hermes-agent:latest
 lingganwu/hermes-web-ui
 ghcr.io/ggml-org/llama.cpp:server-cuda:latest
